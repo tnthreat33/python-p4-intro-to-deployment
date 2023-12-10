@@ -4,7 +4,7 @@
 
 - Understand what "deploying" means.
 - Understand the responsibilities of a web server.
-- Evaluate platforms for deploying Flask applications.
+- Evaluate platforms for deploying Flask applications..
 
 ***
 
